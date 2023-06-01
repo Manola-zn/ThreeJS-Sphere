@@ -1,4 +1,4 @@
-ThreeJS-Sphere
+# ThreeJS-Sphere
 
 # Setup
 Download [Node.js](https://nodejs.org/en/download/).
